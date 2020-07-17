@@ -1,0 +1,42 @@
+body {
+    margin:0px;
+    background:#d1d1d1;
+}
+
+.menu-main {
+    display: flex;
+    width:500px; /*900 ó 1140*/
+    margin: auto;
+    justify-content: space-between;
+}
+
+.menu-main a {
+    flex: 1;
+    font-family: arial;
+    height: 45px;
+    display: flex;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    background: #3b5998;
+    margin: 0px 5px;
+    transform: skew(-45deg);
+}
+
+.menu-main a span {
+    transform: skew(45deg);
+}
+
+.menu-main a:hover {
+    background: #29487d;
+}
+
+.menu-main a.active {
+    background: #29487d;
+}
+
+
+
