@@ -12,3 +12,5 @@ Lesson 4 - Menu, Skew with CSS and HTML
 Lesson 5 - SCALE, ANIMATION with CSS and HTML
 
 Lesson 6 - ROTATE, ANIMATION with CSS and HTML
+
+Lesson 7 - KEYFRAMES, ANIMATION with CSS and HTML
